@@ -8,7 +8,7 @@ Studying Software Engineering at HyperionDev.
 
 🔧 Skills:
 
-Languages: Python, SQL ,Java
+Languages: Python, SQL ,Java. 
 Frameworks: Django
 Development: Web Development, App Creation ,Software Development
 Methodologies: Agile
