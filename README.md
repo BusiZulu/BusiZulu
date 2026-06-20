@@ -1,29 +1,23 @@
-- 👋 Hi, I'm Busisiwe Zulu!
+👋 Hi, I'm Busisiwe Zulu!
 
-💼 Current Role:
-I'm an Office Manager with a passion for technology and development.
+💼 Current Role:  
+I currently work in Sales with a strong interest in transitioning into software development.
 
-🎓 Education:
-Studying Software Engineering at HyperionDev.
+🎓 Education:  
+Software Engineering student at HyperionDev.
 
 🔧 Skills:
 
-Languages: Python, SQL ,Java. 
-Frameworks: Django
-Development: Web Development, App Creation ,Software Development
-Methodologies: Agile
-Soft Skills: Team Collaboration, Problem Solving
+Languages: Python, SQL, Java (basic understanding)  
+Web Development: HTML, CSS, JavaScript  
+Concepts: Agile, Software Development Fundamentals  
+Soft Skills: Problem Solving, Communication, Team Collaboration  
 
-🚀 Interests:
-I love learning new technologies, working in teams, and tackling complex problems with innovative solutions.
+🚀 Interests:  
+I enjoy learning how software is built and improving my programming skills through hands-on projects. I am currently focused on building a strong foundation in software development.
 
-🌟 Work Ethic:
-Known for being very hardworking and dedicated to continuous improvement.
+🌱 Journey:  
+I am actively transitioning from a non-technical role into the tech industry and continuously learning through practice and personal projects.
 
-🌐 Connect with me:
-
-LinkedIn https://www.linkedin.com/in/busisiwe-zulu-261ba5142/
-<!---
-BusiZulu/BusiZulu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 Connect with me:  
+LinkedIn: https://www.linkedin.com/in/busisiwe-zulu-261ba5142/
